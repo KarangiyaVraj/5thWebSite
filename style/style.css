@@ -1,0 +1,50 @@
+.navbar-nav li{
+    margin-left: 28px;
+    margin-top: 30px;
+}
+.navbar-nav li a{
+    font-size: 17px;
+    font-weight: 600;
+}
+.badge-success-soft {
+    background-color: rgba(66,186,150,.1);
+    color: #42ba96;
+}
+.text-success {
+    color: #42ba96!important;
+}
+.img-skewed-left .img-skewed-item {
+    -webkit-transform: rotateY(-35deg) rotateX(15deg);
+    transform: rotateY(-35deg) rotateX(15deg);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.screenshot {
+    border-radius: .625rem;
+    box-shadow: 25px 60px 125px -25px rgba(80,102,144,.1), 16px 40px 75px -40px rgba(0,0,0,.2);
+}
+.img-fluid {
+  max-width:100%;
+    height: auto;
+}
+.carousel-indicators li{
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+}
+.carousel-control-prev-icon{
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+.carousel-control-next-icon{
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
+.badge-info-soft{
+  background-color:cadetblue;
+}
